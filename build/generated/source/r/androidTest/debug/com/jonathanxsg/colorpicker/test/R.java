@@ -2973,35 +2973,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.android.colorpicker.test:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.android.colorpicker.test:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.android.colorpicker.test:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.android.colorpicker.test:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.android.colorpicker.test:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.android.colorpicker.test:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.android.colorpicker.test:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.android.colorpicker.test:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.android.colorpicker.test:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.android.colorpicker.test:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.android.colorpicker.test:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.android.colorpicker.test:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.android.colorpicker.test:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.android.colorpicker.test:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.android.colorpicker.test:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.android.colorpicker.test:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.android.colorpicker.test:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.android.colorpicker.test:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.android.colorpicker.test:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.android.colorpicker.test:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.android.colorpicker.test:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.android.colorpicker.test:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.android.colorpicker.test:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.android.colorpicker.test:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.android.colorpicker.test:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.android.colorpicker.test:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.android.colorpicker.test:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.android.colorpicker.test:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.android.colorpicker.test:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.jonathanxsg.colorpicker.test:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.jonathanxsg.colorpicker.test:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.jonathanxsg.colorpicker.test:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.jonathanxsg.colorpicker.test:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.jonathanxsg.colorpicker.test:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.jonathanxsg.colorpicker.test:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.jonathanxsg.colorpicker.test:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.jonathanxsg.colorpicker.test:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.jonathanxsg.colorpicker.test:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.jonathanxsg.colorpicker.test:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.jonathanxsg.colorpicker.test:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.jonathanxsg.colorpicker.test:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.jonathanxsg.colorpicker.test:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.jonathanxsg.colorpicker.test:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.jonathanxsg.colorpicker.test:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.jonathanxsg.colorpicker.test:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.jonathanxsg.colorpicker.test:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.jonathanxsg.colorpicker.test:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.jonathanxsg.colorpicker.test:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.jonathanxsg.colorpicker.test:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.jonathanxsg.colorpicker.test:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.jonathanxsg.colorpicker.test:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.jonathanxsg.colorpicker.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.jonathanxsg.colorpicker.test:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.jonathanxsg.colorpicker.test:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.jonathanxsg.colorpicker.test:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.jonathanxsg.colorpicker.test:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.jonathanxsg.colorpicker.test:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.jonathanxsg.colorpicker.test:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -3052,7 +3052,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:background
+     * @attr name com.jonathanxsg.colorpicker.test:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -3067,7 +3067,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:backgroundSplit
+     * @attr name com.jonathanxsg.colorpicker.test:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -3082,7 +3082,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:backgroundStacked
+     * @attr name com.jonathanxsg.colorpicker.test:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -3095,7 +3095,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetEnd
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -3108,7 +3108,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetEndWithActions
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -3121,7 +3121,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetLeft
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -3134,7 +3134,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetRight
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -3147,7 +3147,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetStart
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -3160,7 +3160,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetStartWithNavigation
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -3172,7 +3172,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:customNavigationLayout
+     * @attr name com.jonathanxsg.colorpicker.test:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -3194,7 +3194,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:displayOptions
+     * @attr name com.jonathanxsg.colorpicker.test:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -3206,7 +3206,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:divider
+     * @attr name com.jonathanxsg.colorpicker.test:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -3219,7 +3219,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:elevation
+     * @attr name com.jonathanxsg.colorpicker.test:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -3232,7 +3232,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:height
+     * @attr name com.jonathanxsg.colorpicker.test:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -3242,7 +3242,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:hideOnContentScroll
+     * @attr name com.jonathanxsg.colorpicker.test:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -3254,7 +3254,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:homeAsUpIndicator
+     * @attr name com.jonathanxsg.colorpicker.test:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -3266,7 +3266,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:homeLayout
+     * @attr name com.jonathanxsg.colorpicker.test:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -3278,7 +3278,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:icon
+     * @attr name com.jonathanxsg.colorpicker.test:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -3290,7 +3290,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:indeterminateProgressStyle
+     * @attr name com.jonathanxsg.colorpicker.test:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -3303,7 +3303,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:itemPadding
+     * @attr name com.jonathanxsg.colorpicker.test:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -3315,7 +3315,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:logo
+     * @attr name com.jonathanxsg.colorpicker.test:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -3333,7 +3333,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:navigationMode
+     * @attr name com.jonathanxsg.colorpicker.test:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -3345,7 +3345,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:popupTheme
+     * @attr name com.jonathanxsg.colorpicker.test:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -3358,7 +3358,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:progressBarPadding
+     * @attr name com.jonathanxsg.colorpicker.test:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -3370,7 +3370,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:progressBarStyle
+     * @attr name com.jonathanxsg.colorpicker.test:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -3380,7 +3380,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:subtitle
+     * @attr name com.jonathanxsg.colorpicker.test:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -3392,7 +3392,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:subtitleTextStyle
+     * @attr name com.jonathanxsg.colorpicker.test:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -3402,7 +3402,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:title
+     * @attr name com.jonathanxsg.colorpicker.test:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -3414,7 +3414,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:titleTextStyle
+     * @attr name com.jonathanxsg.colorpicker.test:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -3496,12 +3496,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.android.colorpicker.test:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.android.colorpicker.test:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.android.colorpicker.test:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.android.colorpicker.test:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.android.colorpicker.test:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.android.colorpicker.test:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.jonathanxsg.colorpicker.test:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.jonathanxsg.colorpicker.test:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.jonathanxsg.colorpicker.test:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.jonathanxsg.colorpicker.test:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.jonathanxsg.colorpicker.test:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.jonathanxsg.colorpicker.test:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -3523,7 +3523,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:background
+     * @attr name com.jonathanxsg.colorpicker.test:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -3538,7 +3538,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:backgroundSplit
+     * @attr name com.jonathanxsg.colorpicker.test:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -3550,7 +3550,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:closeItemLayout
+     * @attr name com.jonathanxsg.colorpicker.test:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -3563,7 +3563,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:height
+     * @attr name com.jonathanxsg.colorpicker.test:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -3575,7 +3575,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:subtitleTextStyle
+     * @attr name com.jonathanxsg.colorpicker.test:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -3587,7 +3587,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:titleTextStyle
+     * @attr name com.jonathanxsg.colorpicker.test:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -3597,8 +3597,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.android.colorpicker.test:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.android.colorpicker.test:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.jonathanxsg.colorpicker.test:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.jonathanxsg.colorpicker.test:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -3615,7 +3615,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:expandActivityOverflowButtonDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -3625,7 +3625,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:initialActivityCount
+     * @attr name com.jonathanxsg.colorpicker.test:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -3636,13 +3636,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.android.colorpicker.test:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.android.colorpicker.test:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.android.colorpicker.test:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.android.colorpicker.test:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.android.colorpicker.test:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.android.colorpicker.test:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.android.colorpicker.test:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.jonathanxsg.colorpicker.test:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.jonathanxsg.colorpicker.test:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.jonathanxsg.colorpicker.test:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.jonathanxsg.colorpicker.test:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.jonathanxsg.colorpicker.test:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.jonathanxsg.colorpicker.test:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.jonathanxsg.colorpicker.test:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -3679,7 +3679,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:buttonIconDimen
+     * @attr name com.jonathanxsg.colorpicker.test:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
@@ -3691,7 +3691,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonPanelSideLayout
+     * @attr name com.jonathanxsg.colorpicker.test:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
@@ -3703,7 +3703,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:listItemLayout
+     * @attr name com.jonathanxsg.colorpicker.test:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
@@ -3715,7 +3715,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:listLayout
+     * @attr name com.jonathanxsg.colorpicker.test:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
@@ -3727,7 +3727,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:multiChoiceItemLayout
+     * @attr name com.jonathanxsg.colorpicker.test:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
@@ -3737,7 +3737,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:showTitle
+     * @attr name com.jonathanxsg.colorpicker.test:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
@@ -3749,7 +3749,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:singleChoiceItemLayout
+     * @attr name com.jonathanxsg.colorpicker.test:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -3760,9 +3760,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.android.colorpicker.test:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.android.colorpicker.test:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.android.colorpicker.test:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.jonathanxsg.colorpicker.test:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.jonathanxsg.colorpicker.test:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.jonathanxsg.colorpicker.test:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -3796,7 +3796,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:srcCompat
+     * @attr name com.jonathanxsg.colorpicker.test:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -3807,7 +3807,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:tint
+     * @attr name com.jonathanxsg.colorpicker.test:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -3828,7 +3828,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:tintMode
+     * @attr name com.jonathanxsg.colorpicker.test:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -3839,9 +3839,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.android.colorpicker.test:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.android.colorpicker.test:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.android.colorpicker.test:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.jonathanxsg.colorpicker.test:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.jonathanxsg.colorpicker.test:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.jonathanxsg.colorpicker.test:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -3872,7 +3872,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:tickMark
+     * @attr name com.jonathanxsg.colorpicker.test:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -3883,7 +3883,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:tickMarkTint
+     * @attr name com.jonathanxsg.colorpicker.test:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -3904,7 +3904,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:tickMarkTintMode
+     * @attr name com.jonathanxsg.colorpicker.test:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -4044,13 +4044,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.android.colorpicker.test:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.android.colorpicker.test:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.android.colorpicker.test:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.android.colorpicker.test:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.android.colorpicker.test:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.android.colorpicker.test:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.android.colorpicker.test:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.jonathanxsg.colorpicker.test:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.jonathanxsg.colorpicker.test:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.jonathanxsg.colorpicker.test:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.jonathanxsg.colorpicker.test:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.jonathanxsg.colorpicker.test:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.jonathanxsg.colorpicker.test:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.jonathanxsg.colorpicker.test:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -4087,7 +4087,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:autoSizeMaxTextSize
+     * @attr name com.jonathanxsg.colorpicker.test:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -4100,7 +4100,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:autoSizeMinTextSize
+     * @attr name com.jonathanxsg.colorpicker.test:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -4112,7 +4112,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:autoSizePresetSizes
+     * @attr name com.jonathanxsg.colorpicker.test:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -4125,7 +4125,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:autoSizeStepGranularity
+     * @attr name com.jonathanxsg.colorpicker.test:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -4142,7 +4142,7 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:autoSizeTextType
+     * @attr name com.jonathanxsg.colorpicker.test:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
@@ -4152,7 +4152,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:fontFamily
+     * @attr name com.jonathanxsg.colorpicker.test:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
@@ -4166,7 +4166,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:textAllCaps
+     * @attr name com.jonathanxsg.colorpicker.test:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -4178,124 +4178,124 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.android.colorpicker.test:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.android.colorpicker.test:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.android.colorpicker.test:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.android.colorpicker.test:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.android.colorpicker.test:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.android.colorpicker.test:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.android.colorpicker.test:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.android.colorpicker.test:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.android.colorpicker.test:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.android.colorpicker.test:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.android.colorpicker.test:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.android.colorpicker.test:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.android.colorpicker.test:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.android.colorpicker.test:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.android.colorpicker.test:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.android.colorpicker.test:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.android.colorpicker.test:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.android.colorpicker.test:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.android.colorpicker.test:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.android.colorpicker.test:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.android.colorpicker.test:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.android.colorpicker.test:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.android.colorpicker.test:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.android.colorpicker.test:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.android.colorpicker.test:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.android.colorpicker.test:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.android.colorpicker.test:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.android.colorpicker.test:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.android.colorpicker.test:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.android.colorpicker.test:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.android.colorpicker.test:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.android.colorpicker.test:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.android.colorpicker.test:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.android.colorpicker.test:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.android.colorpicker.test:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.android.colorpicker.test:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.android.colorpicker.test:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.android.colorpicker.test:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.android.colorpicker.test:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.android.colorpicker.test:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.android.colorpicker.test:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.android.colorpicker.test:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.android.colorpicker.test:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.android.colorpicker.test:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.android.colorpicker.test:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.android.colorpicker.test:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.android.colorpicker.test:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.android.colorpicker.test:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.android.colorpicker.test:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.android.colorpicker.test:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.android.colorpicker.test:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.android.colorpicker.test:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.android.colorpicker.test:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.android.colorpicker.test:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.android.colorpicker.test:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.android.colorpicker.test:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.android.colorpicker.test:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.android.colorpicker.test:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.android.colorpicker.test:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.android.colorpicker.test:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.android.colorpicker.test:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.android.colorpicker.test:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.android.colorpicker.test:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.android.colorpicker.test:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.android.colorpicker.test:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.android.colorpicker.test:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.android.colorpicker.test:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.android.colorpicker.test:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.android.colorpicker.test:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.android.colorpicker.test:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.android.colorpicker.test:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.android.colorpicker.test:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.android.colorpicker.test:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.android.colorpicker.test:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.android.colorpicker.test:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.android.colorpicker.test:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.android.colorpicker.test:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.android.colorpicker.test:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.android.colorpicker.test:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.android.colorpicker.test:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.android.colorpicker.test:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.android.colorpicker.test:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.android.colorpicker.test:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.android.colorpicker.test:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.android.colorpicker.test:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.android.colorpicker.test:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.android.colorpicker.test:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.android.colorpicker.test:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.android.colorpicker.test:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.android.colorpicker.test:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.android.colorpicker.test:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.android.colorpicker.test:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.android.colorpicker.test:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.android.colorpicker.test:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.android.colorpicker.test:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.android.colorpicker.test:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.android.colorpicker.test:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.android.colorpicker.test:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.android.colorpicker.test:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.android.colorpicker.test:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.android.colorpicker.test:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.android.colorpicker.test:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.android.colorpicker.test:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.android.colorpicker.test:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.android.colorpicker.test:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.android.colorpicker.test:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.android.colorpicker.test:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.android.colorpicker.test:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.android.colorpicker.test:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.android.colorpicker.test:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.android.colorpicker.test:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.android.colorpicker.test:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.android.colorpicker.test:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.android.colorpicker.test:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.android.colorpicker.test:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.android.colorpicker.test:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.android.colorpicker.test:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.android.colorpicker.test:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.jonathanxsg.colorpicker.test:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.jonathanxsg.colorpicker.test:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.jonathanxsg.colorpicker.test:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.jonathanxsg.colorpicker.test:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.jonathanxsg.colorpicker.test:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.jonathanxsg.colorpicker.test:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.jonathanxsg.colorpicker.test:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.jonathanxsg.colorpicker.test:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.jonathanxsg.colorpicker.test:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.jonathanxsg.colorpicker.test:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.jonathanxsg.colorpicker.test:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.jonathanxsg.colorpicker.test:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.jonathanxsg.colorpicker.test:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.jonathanxsg.colorpicker.test:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.jonathanxsg.colorpicker.test:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.jonathanxsg.colorpicker.test:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.jonathanxsg.colorpicker.test:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.jonathanxsg.colorpicker.test:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.jonathanxsg.colorpicker.test:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.jonathanxsg.colorpicker.test:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.jonathanxsg.colorpicker.test:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.jonathanxsg.colorpicker.test:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.jonathanxsg.colorpicker.test:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.jonathanxsg.colorpicker.test:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.jonathanxsg.colorpicker.test:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.jonathanxsg.colorpicker.test:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.jonathanxsg.colorpicker.test:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.jonathanxsg.colorpicker.test:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.jonathanxsg.colorpicker.test:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.jonathanxsg.colorpicker.test:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.jonathanxsg.colorpicker.test:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.jonathanxsg.colorpicker.test:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.jonathanxsg.colorpicker.test:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.jonathanxsg.colorpicker.test:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.jonathanxsg.colorpicker.test:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.jonathanxsg.colorpicker.test:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.jonathanxsg.colorpicker.test:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.jonathanxsg.colorpicker.test:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.jonathanxsg.colorpicker.test:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.jonathanxsg.colorpicker.test:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.jonathanxsg.colorpicker.test:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.jonathanxsg.colorpicker.test:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.jonathanxsg.colorpicker.test:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.jonathanxsg.colorpicker.test:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.jonathanxsg.colorpicker.test:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.jonathanxsg.colorpicker.test:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.jonathanxsg.colorpicker.test:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.jonathanxsg.colorpicker.test:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.jonathanxsg.colorpicker.test:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.jonathanxsg.colorpicker.test:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.jonathanxsg.colorpicker.test:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.jonathanxsg.colorpicker.test:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.jonathanxsg.colorpicker.test:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.jonathanxsg.colorpicker.test:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.jonathanxsg.colorpicker.test:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.jonathanxsg.colorpicker.test:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.jonathanxsg.colorpicker.test:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.jonathanxsg.colorpicker.test:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.jonathanxsg.colorpicker.test:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.jonathanxsg.colorpicker.test:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.jonathanxsg.colorpicker.test:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.jonathanxsg.colorpicker.test:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.jonathanxsg.colorpicker.test:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.jonathanxsg.colorpicker.test:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.jonathanxsg.colorpicker.test:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.jonathanxsg.colorpicker.test:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.jonathanxsg.colorpicker.test:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.jonathanxsg.colorpicker.test:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.jonathanxsg.colorpicker.test:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.jonathanxsg.colorpicker.test:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.jonathanxsg.colorpicker.test:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.jonathanxsg.colorpicker.test:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.jonathanxsg.colorpicker.test:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.jonathanxsg.colorpicker.test:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.jonathanxsg.colorpicker.test:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.jonathanxsg.colorpicker.test:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.jonathanxsg.colorpicker.test:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.jonathanxsg.colorpicker.test:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.jonathanxsg.colorpicker.test:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.jonathanxsg.colorpicker.test:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.jonathanxsg.colorpicker.test:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.jonathanxsg.colorpicker.test:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.jonathanxsg.colorpicker.test:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.jonathanxsg.colorpicker.test:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.jonathanxsg.colorpicker.test:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.jonathanxsg.colorpicker.test:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.jonathanxsg.colorpicker.test:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.jonathanxsg.colorpicker.test:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.jonathanxsg.colorpicker.test:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.jonathanxsg.colorpicker.test:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.jonathanxsg.colorpicker.test:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.jonathanxsg.colorpicker.test:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.jonathanxsg.colorpicker.test:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.jonathanxsg.colorpicker.test:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.jonathanxsg.colorpicker.test:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.jonathanxsg.colorpicker.test:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.jonathanxsg.colorpicker.test:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.jonathanxsg.colorpicker.test:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.jonathanxsg.colorpicker.test:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.jonathanxsg.colorpicker.test:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.jonathanxsg.colorpicker.test:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.jonathanxsg.colorpicker.test:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.jonathanxsg.colorpicker.test:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.jonathanxsg.colorpicker.test:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.jonathanxsg.colorpicker.test:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.jonathanxsg.colorpicker.test:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.jonathanxsg.colorpicker.test:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.jonathanxsg.colorpicker.test:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.jonathanxsg.colorpicker.test:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.jonathanxsg.colorpicker.test:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.jonathanxsg.colorpicker.test:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.jonathanxsg.colorpicker.test:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.jonathanxsg.colorpicker.test:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.jonathanxsg.colorpicker.test:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.jonathanxsg.colorpicker.test:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.jonathanxsg.colorpicker.test:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.jonathanxsg.colorpicker.test:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.jonathanxsg.colorpicker.test:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -4481,7 +4481,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarDivider
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -4493,7 +4493,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarItemBackground
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -4505,7 +4505,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarPopupTheme
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -4526,7 +4526,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:actionBarSize
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -4538,7 +4538,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarSplitStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -4550,7 +4550,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
@@ -4562,7 +4562,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarTabBarStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -4574,7 +4574,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarTabStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
@@ -4586,7 +4586,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarTabTextStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -4598,7 +4598,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarTheme
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -4610,7 +4610,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionBarWidgetTheme
+     * @attr name com.jonathanxsg.colorpicker.test:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -4622,7 +4622,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -4634,7 +4634,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionDropDownStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -4646,7 +4646,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionMenuTextAppearance
+     * @attr name com.jonathanxsg.colorpicker.test:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -4661,7 +4661,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionMenuTextColor
+     * @attr name com.jonathanxsg.colorpicker.test:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -4673,7 +4673,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeBackground
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
@@ -4685,7 +4685,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeCloseButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -4697,7 +4697,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeCloseDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -4709,7 +4709,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeCopyDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -4721,7 +4721,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeCutDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -4733,7 +4733,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeFindDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -4745,7 +4745,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModePasteDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -4757,7 +4757,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModePopupWindowStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -4769,7 +4769,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeSelectAllDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -4781,7 +4781,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeShareDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -4793,7 +4793,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeSplitBackground
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
@@ -4805,7 +4805,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -4817,7 +4817,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionModeWebSearchDrawable
+     * @attr name com.jonathanxsg.colorpicker.test:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
@@ -4829,7 +4829,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionOverflowButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
@@ -4841,7 +4841,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionOverflowMenuStyle
+     * @attr name com.jonathanxsg.colorpicker.test:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -4853,7 +4853,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:activityChooserViewStyle
+     * @attr name com.jonathanxsg.colorpicker.test:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
@@ -4865,7 +4865,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:alertDialogButtonGroupStyle
+     * @attr name com.jonathanxsg.colorpicker.test:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
@@ -4875,7 +4875,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:alertDialogCenterButtons
+     * @attr name com.jonathanxsg.colorpicker.test:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
@@ -4887,7 +4887,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:alertDialogStyle
+     * @attr name com.jonathanxsg.colorpicker.test:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -4899,7 +4899,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:alertDialogTheme
+     * @attr name com.jonathanxsg.colorpicker.test:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -4911,7 +4911,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:autoCompleteTextViewStyle
+     * @attr name com.jonathanxsg.colorpicker.test:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -4923,7 +4923,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:borderlessButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -4935,7 +4935,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonBarButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -4947,7 +4947,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonBarNegativeButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -4959,7 +4959,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonBarNeutralButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -4971,7 +4971,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonBarPositiveButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -4983,7 +4983,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonBarStyle
+     * @attr name com.jonathanxsg.colorpicker.test:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -4995,7 +4995,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -5007,7 +5007,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonStyleSmall
+     * @attr name com.jonathanxsg.colorpicker.test:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -5019,7 +5019,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:checkboxStyle
+     * @attr name com.jonathanxsg.colorpicker.test:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -5031,7 +5031,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:checkedTextViewStyle
+     * @attr name com.jonathanxsg.colorpicker.test:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -5042,7 +5042,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorAccent
+     * @attr name com.jonathanxsg.colorpicker.test:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -5053,7 +5053,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorBackgroundFloating
+     * @attr name com.jonathanxsg.colorpicker.test:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -5064,7 +5064,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorButtonNormal
+     * @attr name com.jonathanxsg.colorpicker.test:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -5075,7 +5075,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorControlActivated
+     * @attr name com.jonathanxsg.colorpicker.test:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -5086,7 +5086,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorControlHighlight
+     * @attr name com.jonathanxsg.colorpicker.test:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -5097,7 +5097,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorControlNormal
+     * @attr name com.jonathanxsg.colorpicker.test:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -5112,7 +5112,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorError
+     * @attr name com.jonathanxsg.colorpicker.test:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -5123,7 +5123,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorPrimary
+     * @attr name com.jonathanxsg.colorpicker.test:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -5134,7 +5134,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorPrimaryDark
+     * @attr name com.jonathanxsg.colorpicker.test:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -5145,7 +5145,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:colorSwitchThumbNormal
+     * @attr name com.jonathanxsg.colorpicker.test:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -5157,7 +5157,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:controlBackground
+     * @attr name com.jonathanxsg.colorpicker.test:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -5170,7 +5170,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:dialogPreferredPadding
+     * @attr name com.jonathanxsg.colorpicker.test:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
@@ -5182,7 +5182,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:dialogTheme
+     * @attr name com.jonathanxsg.colorpicker.test:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
@@ -5194,7 +5194,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:dividerHorizontal
+     * @attr name com.jonathanxsg.colorpicker.test:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
@@ -5206,7 +5206,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:dividerVertical
+     * @attr name com.jonathanxsg.colorpicker.test:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
@@ -5218,7 +5218,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:dropDownListViewStyle
+     * @attr name com.jonathanxsg.colorpicker.test:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
@@ -5231,7 +5231,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:dropdownListPreferredItemHeight
+     * @attr name com.jonathanxsg.colorpicker.test:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
@@ -5243,7 +5243,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:editTextBackground
+     * @attr name com.jonathanxsg.colorpicker.test:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
@@ -5258,7 +5258,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:editTextColor
+     * @attr name com.jonathanxsg.colorpicker.test:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
@@ -5270,7 +5270,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:editTextStyle
+     * @attr name com.jonathanxsg.colorpicker.test:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
@@ -5282,7 +5282,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:homeAsUpIndicator
+     * @attr name com.jonathanxsg.colorpicker.test:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
@@ -5294,7 +5294,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:imageButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
@@ -5306,7 +5306,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:listChoiceBackgroundIndicator
+     * @attr name com.jonathanxsg.colorpicker.test:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
@@ -5318,7 +5318,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:listDividerAlertDialog
+     * @attr name com.jonathanxsg.colorpicker.test:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
@@ -5330,7 +5330,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:listMenuViewStyle
+     * @attr name com.jonathanxsg.colorpicker.test:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
@@ -5342,7 +5342,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:listPopupWindowStyle
+     * @attr name com.jonathanxsg.colorpicker.test:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
@@ -5355,7 +5355,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:listPreferredItemHeight
+     * @attr name com.jonathanxsg.colorpicker.test:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
@@ -5368,7 +5368,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:listPreferredItemHeightLarge
+     * @attr name com.jonathanxsg.colorpicker.test:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
@@ -5381,7 +5381,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:listPreferredItemHeightSmall
+     * @attr name com.jonathanxsg.colorpicker.test:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
@@ -5394,7 +5394,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:listPreferredItemPaddingLeft
+     * @attr name com.jonathanxsg.colorpicker.test:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
@@ -5407,7 +5407,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:listPreferredItemPaddingRight
+     * @attr name com.jonathanxsg.colorpicker.test:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
@@ -5419,7 +5419,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:panelBackground
+     * @attr name com.jonathanxsg.colorpicker.test:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
@@ -5431,7 +5431,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:panelMenuListTheme
+     * @attr name com.jonathanxsg.colorpicker.test:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
@@ -5444,7 +5444,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:panelMenuListWidth
+     * @attr name com.jonathanxsg.colorpicker.test:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
@@ -5456,7 +5456,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:popupMenuStyle
+     * @attr name com.jonathanxsg.colorpicker.test:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
@@ -5468,7 +5468,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:popupWindowStyle
+     * @attr name com.jonathanxsg.colorpicker.test:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
@@ -5480,7 +5480,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:radioButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
@@ -5492,7 +5492,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:ratingBarStyle
+     * @attr name com.jonathanxsg.colorpicker.test:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
@@ -5504,7 +5504,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:ratingBarStyleIndicator
+     * @attr name com.jonathanxsg.colorpicker.test:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
@@ -5516,7 +5516,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:ratingBarStyleSmall
+     * @attr name com.jonathanxsg.colorpicker.test:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
@@ -5528,7 +5528,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:searchViewStyle
+     * @attr name com.jonathanxsg.colorpicker.test:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
@@ -5540,7 +5540,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:seekBarStyle
+     * @attr name com.jonathanxsg.colorpicker.test:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
@@ -5552,7 +5552,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:selectableItemBackground
+     * @attr name com.jonathanxsg.colorpicker.test:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
@@ -5564,7 +5564,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:selectableItemBackgroundBorderless
+     * @attr name com.jonathanxsg.colorpicker.test:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
@@ -5576,7 +5576,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:spinnerDropDownItemStyle
+     * @attr name com.jonathanxsg.colorpicker.test:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
@@ -5588,7 +5588,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:spinnerStyle
+     * @attr name com.jonathanxsg.colorpicker.test:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
@@ -5600,7 +5600,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:switchStyle
+     * @attr name com.jonathanxsg.colorpicker.test:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
@@ -5612,7 +5612,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textAppearanceLargePopupMenu
+     * @attr name com.jonathanxsg.colorpicker.test:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
@@ -5624,7 +5624,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textAppearanceListItem
+     * @attr name com.jonathanxsg.colorpicker.test:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
@@ -5636,7 +5636,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textAppearanceListItemSecondary
+     * @attr name com.jonathanxsg.colorpicker.test:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
@@ -5648,7 +5648,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textAppearanceListItemSmall
+     * @attr name com.jonathanxsg.colorpicker.test:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
@@ -5660,7 +5660,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textAppearancePopupMenuHeader
+     * @attr name com.jonathanxsg.colorpicker.test:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
@@ -5672,7 +5672,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textAppearanceSearchResultSubtitle
+     * @attr name com.jonathanxsg.colorpicker.test:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
@@ -5684,7 +5684,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textAppearanceSearchResultTitle
+     * @attr name com.jonathanxsg.colorpicker.test:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
@@ -5696,7 +5696,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textAppearanceSmallPopupMenu
+     * @attr name com.jonathanxsg.colorpicker.test:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
@@ -5711,7 +5711,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textColorAlertDialogListItem
+     * @attr name com.jonathanxsg.colorpicker.test:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
@@ -5726,7 +5726,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:textColorSearchUrl
+     * @attr name com.jonathanxsg.colorpicker.test:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
@@ -5738,7 +5738,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:toolbarNavigationButtonStyle
+     * @attr name com.jonathanxsg.colorpicker.test:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
@@ -5750,7 +5750,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:toolbarStyle
+     * @attr name com.jonathanxsg.colorpicker.test:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
@@ -5765,7 +5765,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:tooltipForegroundColor
+     * @attr name com.jonathanxsg.colorpicker.test:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
@@ -5777,7 +5777,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:tooltipFrameBackground
+     * @attr name com.jonathanxsg.colorpicker.test:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
@@ -5787,7 +5787,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:viewInflaterClass
+     * @attr name com.jonathanxsg.colorpicker.test:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=109;
     /**
@@ -5797,7 +5797,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:windowActionBar
+     * @attr name com.jonathanxsg.colorpicker.test:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=110;
     /**
@@ -5807,7 +5807,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:windowActionBarOverlay
+     * @attr name com.jonathanxsg.colorpicker.test:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=111;
     /**
@@ -5817,7 +5817,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:windowActionModeOverlay
+     * @attr name com.jonathanxsg.colorpicker.test:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=112;
     /**
@@ -5834,7 +5834,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.android.colorpicker.test:windowFixedHeightMajor
+     * @attr name com.jonathanxsg.colorpicker.test:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=113;
     /**
@@ -5851,7 +5851,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.android.colorpicker.test:windowFixedHeightMinor
+     * @attr name com.jonathanxsg.colorpicker.test:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=114;
     /**
@@ -5868,7 +5868,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.android.colorpicker.test:windowFixedWidthMajor
+     * @attr name com.jonathanxsg.colorpicker.test:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=115;
     /**
@@ -5885,7 +5885,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.android.colorpicker.test:windowFixedWidthMinor
+     * @attr name com.jonathanxsg.colorpicker.test:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=116;
     /**
@@ -5902,7 +5902,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.android.colorpicker.test:windowMinWidthMajor
+     * @attr name com.jonathanxsg.colorpicker.test:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=117;
     /**
@@ -5919,7 +5919,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.android.colorpicker.test:windowMinWidthMinor
+     * @attr name com.jonathanxsg.colorpicker.test:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=118;
     /**
@@ -5929,7 +5929,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:windowNoTitle
+     * @attr name com.jonathanxsg.colorpicker.test:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=119;
     /**
@@ -5939,7 +5939,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.android.colorpicker.test:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.jonathanxsg.colorpicker.test:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -5953,7 +5953,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:allowStacking
+     * @attr name com.jonathanxsg.colorpicker.test:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -5965,7 +5965,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.android.colorpicker.test:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.jonathanxsg.colorpicker.test:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -6000,7 +6000,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.android.colorpicker.test:alpha
+     * @attr name com.jonathanxsg.colorpicker.test:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -6011,8 +6011,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.android.colorpicker.test:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.android.colorpicker.test:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.jonathanxsg.colorpicker.test:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.jonathanxsg.colorpicker.test:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -6041,7 +6041,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:buttonTint
+     * @attr name com.jonathanxsg.colorpicker.test:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
@@ -6062,7 +6062,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:buttonTintMode
+     * @attr name com.jonathanxsg.colorpicker.test:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -6072,8 +6072,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.android.colorpicker.test:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.android.colorpicker.test:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.jonathanxsg.colorpicker.test:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.jonathanxsg.colorpicker.test:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -6090,7 +6090,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:keylines
+     * @attr name com.jonathanxsg.colorpicker.test:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -6105,7 +6105,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:statusBarBackground
+     * @attr name com.jonathanxsg.colorpicker.test:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -6116,12 +6116,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.android.colorpicker.test:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.android.colorpicker.test:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.android.colorpicker.test:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.android.colorpicker.test:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.android.colorpicker.test:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.android.colorpicker.test:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.jonathanxsg.colorpicker.test:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.jonathanxsg.colorpicker.test:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.jonathanxsg.colorpicker.test:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.jonathanxsg.colorpicker.test:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.jonathanxsg.colorpicker.test:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.jonathanxsg.colorpicker.test:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -6173,7 +6173,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:layout_anchor
+     * @attr name com.jonathanxsg.colorpicker.test:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -6202,7 +6202,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:layout_anchorGravity
+     * @attr name com.jonathanxsg.colorpicker.test:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -6212,7 +6212,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:layout_behavior
+     * @attr name com.jonathanxsg.colorpicker.test:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -6235,7 +6235,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:layout_dodgeInsetEdges
+     * @attr name com.jonathanxsg.colorpicker.test:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -6257,7 +6257,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:layout_insetEdge
+     * @attr name com.jonathanxsg.colorpicker.test:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -6266,7 +6266,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.android.colorpicker.test:layout_keyline
+     * @attr name com.jonathanxsg.colorpicker.test:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -6276,14 +6276,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.android.colorpicker.test:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.android.colorpicker.test:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.android.colorpicker.test:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.android.colorpicker.test:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.android.colorpicker.test:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.android.colorpicker.test:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.android.colorpicker.test:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.android.colorpicker.test:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.jonathanxsg.colorpicker.test:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.jonathanxsg.colorpicker.test:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.jonathanxsg.colorpicker.test:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.jonathanxsg.colorpicker.test:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.jonathanxsg.colorpicker.test:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.jonathanxsg.colorpicker.test:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.jonathanxsg.colorpicker.test:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.jonathanxsg.colorpicker.test:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -6308,7 +6308,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:arrowHeadLength
+     * @attr name com.jonathanxsg.colorpicker.test:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -6321,7 +6321,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:arrowShaftLength
+     * @attr name com.jonathanxsg.colorpicker.test:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -6334,7 +6334,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:barLength
+     * @attr name com.jonathanxsg.colorpicker.test:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -6345,7 +6345,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:color
+     * @attr name com.jonathanxsg.colorpicker.test:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -6358,7 +6358,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:drawableSize
+     * @attr name com.jonathanxsg.colorpicker.test:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -6371,7 +6371,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:gapBetweenBars
+     * @attr name com.jonathanxsg.colorpicker.test:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -6381,7 +6381,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:spinBars
+     * @attr name com.jonathanxsg.colorpicker.test:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -6394,7 +6394,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:thickness
+     * @attr name com.jonathanxsg.colorpicker.test:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -6404,12 +6404,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.android.colorpicker.test:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.android.colorpicker.test:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.android.colorpicker.test:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.android.colorpicker.test:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.android.colorpicker.test:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.android.colorpicker.test:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.jonathanxsg.colorpicker.test:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.jonathanxsg.colorpicker.test:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.jonathanxsg.colorpicker.test:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.jonathanxsg.colorpicker.test:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.jonathanxsg.colorpicker.test:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.jonathanxsg.colorpicker.test:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -6429,7 +6429,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:fontProviderAuthority
+     * @attr name com.jonathanxsg.colorpicker.test:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -6441,7 +6441,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:fontProviderCerts
+     * @attr name com.jonathanxsg.colorpicker.test:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -6458,7 +6458,7 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:fontProviderFetchStrategy
+     * @attr name com.jonathanxsg.colorpicker.test:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -6475,7 +6475,7 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:fontProviderFetchTimeout
+     * @attr name com.jonathanxsg.colorpicker.test:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -6485,7 +6485,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:fontProviderPackage
+     * @attr name com.jonathanxsg.colorpicker.test:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -6495,7 +6495,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:fontProviderQuery
+     * @attr name com.jonathanxsg.colorpicker.test:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -6508,9 +6508,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.android.colorpicker.test:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.android.colorpicker.test:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.android.colorpicker.test:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.jonathanxsg.colorpicker.test:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.jonathanxsg.colorpicker.test:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.jonathanxsg.colorpicker.test:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -6570,7 +6570,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:font
+     * @attr name com.jonathanxsg.colorpicker.test:font
      */
     public static final int FontFamilyFont_font=3;
     /**
@@ -6587,7 +6587,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:fontStyle
+     * @attr name com.jonathanxsg.colorpicker.test:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
@@ -6596,7 +6596,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.android.colorpicker.test:fontWeight
+     * @attr name com.jonathanxsg.colorpicker.test:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
@@ -6611,10 +6611,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.android.colorpicker.test:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.android.colorpicker.test:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.android.colorpicker.test:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.android.colorpicker.test:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.jonathanxsg.colorpicker.test:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.jonathanxsg.colorpicker.test:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.jonathanxsg.colorpicker.test:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.jonathanxsg.colorpicker.test:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -6714,7 +6714,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:divider
+     * @attr name com.jonathanxsg.colorpicker.test:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -6727,7 +6727,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:dividerPadding
+     * @attr name com.jonathanxsg.colorpicker.test:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -6737,7 +6737,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:measureWithLargestChild
+     * @attr name com.jonathanxsg.colorpicker.test:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -6756,7 +6756,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:showDividers
+     * @attr name com.jonathanxsg.colorpicker.test:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -7028,16 +7028,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.android.colorpicker.test:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.android.colorpicker.test:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.android.colorpicker.test:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.android.colorpicker.test:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.android.colorpicker.test:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.android.colorpicker.test:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.android.colorpicker.test:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.android.colorpicker.test:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.android.colorpicker.test:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.android.colorpicker.test:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.jonathanxsg.colorpicker.test:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.jonathanxsg.colorpicker.test:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.jonathanxsg.colorpicker.test:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.jonathanxsg.colorpicker.test:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.jonathanxsg.colorpicker.test:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.jonathanxsg.colorpicker.test:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.jonathanxsg.colorpicker.test:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.jonathanxsg.colorpicker.test:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.jonathanxsg.colorpicker.test:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.jonathanxsg.colorpicker.test:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -7222,7 +7222,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:actionLayout
+     * @attr name com.jonathanxsg.colorpicker.test:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -7232,7 +7232,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:actionProviderClass
+     * @attr name com.jonathanxsg.colorpicker.test:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -7242,7 +7242,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:actionViewClass
+     * @attr name com.jonathanxsg.colorpicker.test:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -7263,7 +7263,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:alphabeticModifiers
+     * @attr name com.jonathanxsg.colorpicker.test:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -7273,7 +7273,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:contentDescription
+     * @attr name com.jonathanxsg.colorpicker.test:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -7284,7 +7284,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:iconTint
+     * @attr name com.jonathanxsg.colorpicker.test:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -7305,7 +7305,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:iconTintMode
+     * @attr name com.jonathanxsg.colorpicker.test:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -7326,7 +7326,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:numericModifiers
+     * @attr name com.jonathanxsg.colorpicker.test:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -7346,7 +7346,7 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:showAsAction
+     * @attr name com.jonathanxsg.colorpicker.test:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -7356,7 +7356,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:tooltipText
+     * @attr name com.jonathanxsg.colorpicker.test:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -7373,8 +7373,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.android.colorpicker.test:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.android.colorpicker.test:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.jonathanxsg.colorpicker.test:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.jonathanxsg.colorpicker.test:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -7485,7 +7485,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:preserveIconSpacing
+     * @attr name com.jonathanxsg.colorpicker.test:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -7497,7 +7497,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:subMenuArrow
+     * @attr name com.jonathanxsg.colorpicker.test:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -7509,7 +7509,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.android.colorpicker.test:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.jonathanxsg.colorpicker.test:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -7552,7 +7552,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:overlapAnchor
+     * @attr name com.jonathanxsg.colorpicker.test:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -7562,7 +7562,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.android.colorpicker.test:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.jonathanxsg.colorpicker.test:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -7576,7 +7576,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:state_above_anchor
+     * @attr name com.jonathanxsg.colorpicker.test:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -7586,8 +7586,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.android.colorpicker.test:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.android.colorpicker.test:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.jonathanxsg.colorpicker.test:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.jonathanxsg.colorpicker.test:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -7605,7 +7605,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:paddingBottomNoButtons
+     * @attr name com.jonathanxsg.colorpicker.test:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -7618,7 +7618,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:paddingTopNoTitle
+     * @attr name com.jonathanxsg.colorpicker.test:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -7632,19 +7632,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.android.colorpicker.test:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.android.colorpicker.test:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.android.colorpicker.test:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.android.colorpicker.test:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.android.colorpicker.test:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.android.colorpicker.test:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.android.colorpicker.test:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.android.colorpicker.test:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.android.colorpicker.test:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.android.colorpicker.test:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.android.colorpicker.test:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.android.colorpicker.test:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.android.colorpicker.test:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.jonathanxsg.colorpicker.test:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.jonathanxsg.colorpicker.test:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.jonathanxsg.colorpicker.test:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.jonathanxsg.colorpicker.test:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.jonathanxsg.colorpicker.test:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.jonathanxsg.colorpicker.test:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.jonathanxsg.colorpicker.test:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.jonathanxsg.colorpicker.test:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.jonathanxsg.colorpicker.test:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.jonathanxsg.colorpicker.test:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.jonathanxsg.colorpicker.test:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.jonathanxsg.colorpicker.test:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.jonathanxsg.colorpicker.test:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -7790,7 +7790,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:closeIcon
+     * @attr name com.jonathanxsg.colorpicker.test:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -7802,7 +7802,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:commitIcon
+     * @attr name com.jonathanxsg.colorpicker.test:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -7812,7 +7812,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:defaultQueryHint
+     * @attr name com.jonathanxsg.colorpicker.test:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -7824,7 +7824,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:goIcon
+     * @attr name com.jonathanxsg.colorpicker.test:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -7834,7 +7834,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:iconifiedByDefault
+     * @attr name com.jonathanxsg.colorpicker.test:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -7846,7 +7846,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:layout
+     * @attr name com.jonathanxsg.colorpicker.test:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -7858,7 +7858,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:queryBackground
+     * @attr name com.jonathanxsg.colorpicker.test:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -7868,7 +7868,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:queryHint
+     * @attr name com.jonathanxsg.colorpicker.test:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -7880,7 +7880,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:searchHintIcon
+     * @attr name com.jonathanxsg.colorpicker.test:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -7892,7 +7892,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:searchIcon
+     * @attr name com.jonathanxsg.colorpicker.test:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -7904,7 +7904,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:submitBackground
+     * @attr name com.jonathanxsg.colorpicker.test:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -7916,7 +7916,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:suggestionRowLayout
+     * @attr name com.jonathanxsg.colorpicker.test:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -7928,7 +7928,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:voiceIcon
+     * @attr name com.jonathanxsg.colorpicker.test:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -7942,7 +7942,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.android.colorpicker.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.jonathanxsg.colorpicker.test:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -8025,7 +8025,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:popupTheme
+     * @attr name com.jonathanxsg.colorpicker.test:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -8038,17 +8038,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.android.colorpicker.test:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.android.colorpicker.test:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.android.colorpicker.test:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.android.colorpicker.test:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.android.colorpicker.test:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.android.colorpicker.test:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.android.colorpicker.test:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.android.colorpicker.test:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.android.colorpicker.test:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.android.colorpicker.test:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.android.colorpicker.test:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.jonathanxsg.colorpicker.test:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.jonathanxsg.colorpicker.test:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.jonathanxsg.colorpicker.test:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.jonathanxsg.colorpicker.test:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.jonathanxsg.colorpicker.test:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.jonathanxsg.colorpicker.test:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.jonathanxsg.colorpicker.test:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.jonathanxsg.colorpicker.test:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.jonathanxsg.colorpicker.test:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.jonathanxsg.colorpicker.test:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.jonathanxsg.colorpicker.test:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -8110,7 +8110,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:showText
+     * @attr name com.jonathanxsg.colorpicker.test:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -8120,7 +8120,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:splitTrack
+     * @attr name com.jonathanxsg.colorpicker.test:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -8133,7 +8133,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:switchMinWidth
+     * @attr name com.jonathanxsg.colorpicker.test:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -8146,7 +8146,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:switchPadding
+     * @attr name com.jonathanxsg.colorpicker.test:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -8158,7 +8158,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:switchTextAppearance
+     * @attr name com.jonathanxsg.colorpicker.test:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -8171,7 +8171,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:thumbTextPadding
+     * @attr name com.jonathanxsg.colorpicker.test:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -8182,7 +8182,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:thumbTint
+     * @attr name com.jonathanxsg.colorpicker.test:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -8203,7 +8203,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:thumbTintMode
+     * @attr name com.jonathanxsg.colorpicker.test:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -8215,7 +8215,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:track
+     * @attr name com.jonathanxsg.colorpicker.test:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -8226,7 +8226,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:trackTint
+     * @attr name com.jonathanxsg.colorpicker.test:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -8247,7 +8247,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:trackTintMode
+     * @attr name com.jonathanxsg.colorpicker.test:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -8268,8 +8268,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.android.colorpicker.test:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.android.colorpicker.test:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.jonathanxsg.colorpicker.test:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.jonathanxsg.colorpicker.test:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -8441,7 +8441,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:fontFamily
+     * @attr name com.jonathanxsg.colorpicker.test:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
@@ -8455,7 +8455,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.android.colorpicker.test:textAllCaps
+     * @attr name com.jonathanxsg.colorpicker.test:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -8467,33 +8467,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.android.colorpicker.test:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.android.colorpicker.test:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.android.colorpicker.test:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.android.colorpicker.test:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.android.colorpicker.test:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.android.colorpicker.test:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.android.colorpicker.test:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.android.colorpicker.test:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.android.colorpicker.test:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.android.colorpicker.test:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.android.colorpicker.test:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.android.colorpicker.test:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.android.colorpicker.test:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.android.colorpicker.test:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.android.colorpicker.test:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.android.colorpicker.test:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.android.colorpicker.test:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.android.colorpicker.test:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.android.colorpicker.test:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.android.colorpicker.test:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.android.colorpicker.test:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.android.colorpicker.test:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.android.colorpicker.test:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.android.colorpicker.test:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.android.colorpicker.test:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.android.colorpicker.test:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.android.colorpicker.test:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.jonathanxsg.colorpicker.test:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.jonathanxsg.colorpicker.test:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.jonathanxsg.colorpicker.test:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.jonathanxsg.colorpicker.test:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.jonathanxsg.colorpicker.test:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.jonathanxsg.colorpicker.test:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.jonathanxsg.colorpicker.test:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.jonathanxsg.colorpicker.test:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.jonathanxsg.colorpicker.test:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.jonathanxsg.colorpicker.test:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.jonathanxsg.colorpicker.test:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.jonathanxsg.colorpicker.test:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.jonathanxsg.colorpicker.test:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.jonathanxsg.colorpicker.test:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.jonathanxsg.colorpicker.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.jonathanxsg.colorpicker.test:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.jonathanxsg.colorpicker.test:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.jonathanxsg.colorpicker.test:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.jonathanxsg.colorpicker.test:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.jonathanxsg.colorpicker.test:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.jonathanxsg.colorpicker.test:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.jonathanxsg.colorpicker.test:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.jonathanxsg.colorpicker.test:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.jonathanxsg.colorpicker.test:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.jonathanxsg.colorpicker.test:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.jonathanxsg.colorpicker.test:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.jonathanxsg.colorpicker.test:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -8591,7 +8591,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:buttonGravity
+     * @attr name com.jonathanxsg.colorpicker.test:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -8601,7 +8601,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:collapseContentDescription
+     * @attr name com.jonathanxsg.colorpicker.test:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -8613,7 +8613,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:collapseIcon
+     * @attr name com.jonathanxsg.colorpicker.test:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -8626,7 +8626,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetEnd
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -8639,7 +8639,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetEndWithActions
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -8652,7 +8652,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetLeft
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -8665,7 +8665,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetRight
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -8678,7 +8678,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetStart
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -8691,7 +8691,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:contentInsetStartWithNavigation
+     * @attr name com.jonathanxsg.colorpicker.test:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -8703,7 +8703,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:logo
+     * @attr name com.jonathanxsg.colorpicker.test:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -8713,7 +8713,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:logoDescription
+     * @attr name com.jonathanxsg.colorpicker.test:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
@@ -8726,7 +8726,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:maxButtonHeight
+     * @attr name com.jonathanxsg.colorpicker.test:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -8736,7 +8736,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:navigationContentDescription
+     * @attr name com.jonathanxsg.colorpicker.test:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
@@ -8748,7 +8748,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:navigationIcon
+     * @attr name com.jonathanxsg.colorpicker.test:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
@@ -8760,7 +8760,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:popupTheme
+     * @attr name com.jonathanxsg.colorpicker.test:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
@@ -8770,7 +8770,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:subtitle
+     * @attr name com.jonathanxsg.colorpicker.test:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
@@ -8782,7 +8782,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:subtitleTextAppearance
+     * @attr name com.jonathanxsg.colorpicker.test:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
@@ -8793,7 +8793,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:subtitleTextColor
+     * @attr name com.jonathanxsg.colorpicker.test:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
@@ -8803,7 +8803,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.android.colorpicker.test:title
+     * @attr name com.jonathanxsg.colorpicker.test:title
      */
     public static final int Toolbar_title=20;
     /**
@@ -8816,7 +8816,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:titleMargin
+     * @attr name com.jonathanxsg.colorpicker.test:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
@@ -8829,7 +8829,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:titleMarginBottom
+     * @attr name com.jonathanxsg.colorpicker.test:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
@@ -8842,7 +8842,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:titleMarginEnd
+     * @attr name com.jonathanxsg.colorpicker.test:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
@@ -8855,7 +8855,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:titleMarginStart
+     * @attr name com.jonathanxsg.colorpicker.test:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
@@ -8868,7 +8868,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:titleMarginTop
+     * @attr name com.jonathanxsg.colorpicker.test:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
@@ -8881,7 +8881,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:titleMargins
+     * @attr name com.jonathanxsg.colorpicker.test:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
@@ -8893,7 +8893,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:titleTextAppearance
+     * @attr name com.jonathanxsg.colorpicker.test:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
@@ -8904,7 +8904,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:titleTextColor
+     * @attr name com.jonathanxsg.colorpicker.test:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -8916,9 +8916,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.android.colorpicker.test:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.android.colorpicker.test:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.android.colorpicker.test:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.jonathanxsg.colorpicker.test:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.jonathanxsg.colorpicker.test:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.jonathanxsg.colorpicker.test:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -8970,7 +8970,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:paddingEnd
+     * @attr name com.jonathanxsg.colorpicker.test:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -8983,7 +8983,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.android.colorpicker.test:paddingStart
+     * @attr name com.jonathanxsg.colorpicker.test:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -8995,7 +8995,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.android.colorpicker.test:theme
+     * @attr name com.jonathanxsg.colorpicker.test:theme
      */
     public static final int View_theme=4;
     /**
@@ -9006,8 +9006,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.android.colorpicker.test:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.android.colorpicker.test:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.jonathanxsg.colorpicker.test:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.jonathanxsg.colorpicker.test:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -9039,7 +9039,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.android.colorpicker.test:backgroundTint
+     * @attr name com.jonathanxsg.colorpicker.test:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -9060,7 +9060,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.android.colorpicker.test:backgroundTintMode
+     * @attr name com.jonathanxsg.colorpicker.test:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

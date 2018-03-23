@@ -880,12 +880,12 @@
         "source": "C:\\Users\\Jonathan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\0df9415a27204e8e73a1bfdb13f85095\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "E:\\Users\\Jonathan\\AndroidStudioProjects\\colorpicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_color_picker_swatch.xml.flat",
-        "source": "E:\\Users\\Jonathan\\AndroidStudioProjects\\colorpicker\\build\\intermediates\\bundles\\debug\\res\\layout\\color_picker_swatch.xml"
-    },
-    {
         "merged": "E:\\Users\\Jonathan\\AndroidStudioProjects\\colorpicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Jonathan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\0df9415a27204e8e73a1bfdb13f85095\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Users\\Jonathan\\AndroidStudioProjects\\colorpicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_color_picker_swatch.xml.flat",
+        "source": "E:\\Users\\Jonathan\\AndroidStudioProjects\\colorpicker\\build\\intermediates\\bundles\\debug\\res\\layout\\color_picker_swatch.xml"
     },
     {
         "merged": "E:\\Users\\Jonathan\\AndroidStudioProjects\\colorpicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",

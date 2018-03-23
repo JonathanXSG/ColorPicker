@@ -8,7 +8,7 @@ INJECTED from E:\Users\Jonathan\AndroidStudioProjects\colorpicker\AndroidManifes
 INJECTED from E:\Users\Jonathan\AndroidStudioProjects\colorpicker\AndroidManifest.xml:16:1-23:12
 INJECTED from E:\Users\Jonathan\AndroidStudioProjects\colorpicker\AndroidManifest.xml:16:1-23:12
 	package
-		ADDED from E:\Users\Jonathan\AndroidStudioProjects\colorpicker\AndroidManifest.xml:17:5-38
+		ADDED from E:\Users\Jonathan\AndroidStudioProjects\colorpicker\AndroidManifest.xml:17:5-42
 		INJECTED from E:\Users\Jonathan\AndroidStudioProjects\colorpicker\AndroidManifest.xml
 		INJECTED from E:\Users\Jonathan\AndroidStudioProjects\colorpicker\AndroidManifest.xml
 	android:versionName
